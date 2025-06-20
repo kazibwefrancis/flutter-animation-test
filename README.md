@@ -33,4 +33,23 @@ A Flutter application demonstrating smooth, custom animations using Flutter’s 
    ```sh
    git clone https://github.com/your-username/animation_app.git
    cd animation_app
+Here is a basic folder structure diagram for your repository:
+
+```
+flutter-animation-test/
+├── .gitignore
+├── .metadata
+├── README.md
+├── analysis_options.yaml
+├── pubspec.yaml
+├── pubspec.lock
+├── android/
+├── ios/
+├── lib/
+├── linux/
+├── macos/
+├── test/
+├── web/
+├── windows/
+```
 
