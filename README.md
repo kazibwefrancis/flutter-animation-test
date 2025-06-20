@@ -34,15 +34,3 @@ A Flutter application demonstrating smooth, custom animations using Flutter’s 
    git clone https://github.com/your-username/animation_app.git
    cd animation_app
 
-
-  animation_app/
-├── lib/
-│   ├── main.dart                # App entry point
-│   └── src/
-│       ├── screens/
-│       │   └── home.dart        # Main screen with animation logic
-│       └── widgets/
-│           └── cat.dart         # Custom animated Cat widget
-├── test/                        # Unit and widget tests
-├── pubspec.yaml                 # Project metadata and dependencies
-└── README.md                    # Project documentation
